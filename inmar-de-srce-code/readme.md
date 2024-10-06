@@ -14,7 +14,9 @@ SQL queries to perform the following operations:
 ○ Retrieve the average salary of employees in each department.
 ○ Given two tables, employees and departments, where the departments table
 contains information about department names and their IDs, write a query to retrieve a list of all employees along with their department names. If an employee does not belong to a department, their department name should show as NULL.
-Question #2) Implement a Simple To-Do List Manager using Python Requirements:
+Question
+
+#2) Implement a Simple To-Do List Manager using Python Requirements:
 1. Create a class ToDoList that supports the following operations:
 ○ add_task(task: str): Add a new task to the list.
 ○ remove_task(task: str): Remove a task from the list.
